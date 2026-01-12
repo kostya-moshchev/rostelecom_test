@@ -34,7 +34,7 @@
 # Для использования
 ```bash
 uv sync
-uv run python main.py
+uv run python -m src.presentation.main_window
 ```
 ### Автор проекта
 Мощев Константин
